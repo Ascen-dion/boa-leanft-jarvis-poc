@@ -1,0 +1,7 @@
+<ApplicationConfiguration>
+    <EnvironmentSettings>
+        <EnvName>QA_Sandbox</EnvName>
+        <AppPath>C:\Program Files (x86)\OpenText\Functional Testing\samples\Flights Application\FlightsGUI.exe</AppPath>
+        <DBConnectionString>Server=MockServer;Database=FlightDB;</DBConnectionString>
+    </EnvironmentSettings>
+</ApplicationConfiguration>
